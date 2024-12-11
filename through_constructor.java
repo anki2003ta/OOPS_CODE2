@@ -89,7 +89,7 @@ class Car extends vehicle
         System.out.println("Manufacture_name:"+manufacture_name);
     }
 }
-public class Test
+public class through_constructor
 {
     public static void main(String[] args)
     {
