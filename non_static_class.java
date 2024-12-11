@@ -36,7 +36,7 @@ class PersonDetails
         }
     }
 }
-public class Test
+public class non_static_class
 {
     public static void main(String[] args)
     {
