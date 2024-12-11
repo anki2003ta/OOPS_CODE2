@@ -89,7 +89,7 @@ class Car extends vehicle
         System.out.println("Manufacture_name:"+manufacture_name);
     }
 }
-public class Test
+public class setData_method
 {
     public static void main(String[] args)
     {
