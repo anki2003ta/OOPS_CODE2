@@ -21,7 +21,7 @@ class MaxFinderThread extends Thread {
     }
 }
 
-public class MainThread {
+public class Extend_Thread_class {
     public static void main(String[] args) throws InterruptedException {
         int[] array = {10, 25, 31, 12, 22};
 
