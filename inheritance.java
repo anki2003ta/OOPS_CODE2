@@ -31,7 +31,7 @@ class Person extends Account
         System.out.println("Name:"+name);
     }
 }
-public class Test
+public class inheritance
 {
     public static void main(String[] args)
     {
