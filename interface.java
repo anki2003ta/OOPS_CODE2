@@ -63,7 +63,7 @@ class Student extends Hostel implements Department
         System.out.println("Hello from Student class.");
     }
 }
-public class Test
+public class interface
 {
     public static void main(String[] args)
     {
