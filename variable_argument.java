@@ -1,5 +1,5 @@
 /*variable argument*/
-public class Test
+public class variable_argument
 {
     static int func(int ...v)
     {
